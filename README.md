@@ -1,2 +1,2 @@
 # xi
-go server framework
+Yet another game server framework
